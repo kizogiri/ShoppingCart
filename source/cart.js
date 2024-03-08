@@ -19,7 +19,7 @@ let generateCart = () => {
         let search = clothingData.find((y) => y.id === id) || []; // get from data.js and comapre to basket
         // let { img , name , price}= search //destructing the object
         return `<div class="cart-details">
-          <img class= "image" height="110" width="160" src= ${search.image} />
+          <img class= "image" height="110" width="140" src= ${search.image} />
             <div class="item">
               <div class="product-details">
               <h4>${search.name}</h4>
