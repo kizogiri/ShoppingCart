@@ -3,9 +3,7 @@
   padding: 0;
   box-sizing: border-box;
 }
-body {
-  background-image: linear-gradient(rgb(245, 210, 210), rgb(245, 245, 177));
-}
+
 nav {
   display: flex;
   flex-direction: row;
