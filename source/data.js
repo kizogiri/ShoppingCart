@@ -3,14 +3,14 @@ let clothingData = [
     id: 1,
     name: "Colour Tshirt",
     desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-    image: "/images/image1.png",
+    image: "./images/image1.png",
     price: 25,
   },
   {
     id: 2,
     name: "Formal Shirt",
     desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-    image: "/images/image2.png",
+    image: "./images/image2.png",
     price: 45,
   },
   {
