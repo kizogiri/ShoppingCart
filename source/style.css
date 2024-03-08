@@ -105,6 +105,30 @@ a {
   color: white;
   padding: 3px 7px;
 }
+footer {
+  background-color: #f3eeee;
+  color: #1f2020;
+  text-align: center;
+  padding: 10px;
+  width: 100%;
+
+  position: absolute;
+  bottom: 5;
+  z-index: 999;
+}
+.social-icons {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.social-icons a {
+  display: inline-block;
+  margin: 0 10px;
+  color: #2c100e;
+  text-decoration: none;
+  font-size: 20px;
+}
+
 /* Style for cart */
 .container {
   display: flex;
